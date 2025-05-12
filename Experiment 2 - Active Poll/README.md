@@ -1,13 +1,15 @@
-# Flavoria Lunch Voting App
+# Experiment 2: Intentions Poll (Active Communication)
 
 A real-time lunch voting application for Flavoria restaurant that helps optimize dining times and reduce food waste.
 
-![App Screenshot](https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=800&auto=format&fit=crop&q=80)
+This repository contains the source code for the Experiment 2 conducted as part of my Master's thesis titled "Designing for Engagement: An Affordance-Based Model for Interactive Screens to trigger user driven actions in Self-Service Restaurants."
+
+![Experiment 2 Demo](https://github.com/user-attachments/assets/63b94883-20e4-44a3-aec5-3378c871f14f)
 
 ## Features
 
 - 🗳️ Real-time voting system for lunch plans
-- 🕒 Smart time recommendations to avoid rush hours
+- 🕒 Smart time recommendations to avoid rush hours (defined in code, based on historical data)
 - 📊 Daily voting statistics and progress tracking
 - 🌍 Bilingual support (Finnish/English)
 - 📱 Responsive design for all devices
@@ -64,6 +66,10 @@ The application is configured for deployment on Netlify with automatic builds an
 4. Push to the branch
 5. Open a Pull Request
 
-## License
+## Thesis Context
 
-MIT
+This experiment is the second of the three experiments to form the empirical basis for validating the affordance-based design model proposed in the thesis. For a comprehensive understanding of the theoretical background, model development, experimental design, results, and discussion, please refer to the full thesis document available at University of Turku library.
+
+## Acknowledgement
+
+This research was supported by Business Finland, under the Veturi program with the Dining Flow project (6547/31/2022).
