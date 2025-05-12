@@ -18,12 +18,16 @@ Each experiment folder includes its own `Readme.md` file providing specific deta
 
 ### Experiment 1: Rush Information Screen (Passive Communication)
 
+![Experiment 1 Demo](https://github.com/user-attachments/assets/fbb98e65-27c3-4202-abbe-4988236fa33f)
+
 *   **Objective**: To influence diner behavior (specifically, to encourage earlier arrival times) without requiring direct interaction, by displaying estimated wait times and suggesting less busy periods.
 *   **Communication Type**: Passive.
 *   **Key Metric**: Shift in the proportion of diners arriving during the early lunch slot.
 *   **Details**: See the `Readme.md` file in the `/Experiment 1` folder.
 
-### Experiment 2: Active Poll (Active Communication)
+### Experiment 2: Intentions Poll (Active Communication)
+
+![Experiment 2 Demo](https://github.com/user-attachments/assets/63b94883-20e4-44a3-aec5-3378c871f14f)
 
 *   **Objective**: To gauge diner intentions for the day (e.g., "Are you eating at Flavoria today?") via a simple tappable interface, aiming to improve demand forecasting.
 *   **Communication Type**: Active (simple polling).
@@ -31,6 +35,8 @@ Each experiment folder includes its own `Readme.md` file providing specific deta
 *   **Details**: See the `Readme.md` file in the `/Experiment 2` folder.
 
 ### Experiment 3: Food Waste Pledge (Two-Way Communication)
+
+![Experiment 3 Demo](https://github.com/user-attachments/assets/6a156720-940a-4832-ac75-1b4c35e69ea1)
 
 *   **Objective**: To encourage a reduction in food waste by inviting users to make a pledge (e.g., to take only as much bread as they could eat) using a two-step interactive process with social proof elements.
 *   **Communication Type**: Two-Way (interactive pledge).
