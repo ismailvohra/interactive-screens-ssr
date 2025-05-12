@@ -1,6 +1,10 @@
-# Food Waste Reduction Interactive Experience
+# Experiment 3: Food Waste Pledge (Two-Way Communication)
 
 An interactive web application designed to raise awareness about food waste and encourage mindful consumption habits. Users can interact with food items through a unique slicing mechanic and make pledges to reduce food waste.
+
+This repository contains the source code for the Experiment 2 conducted as part of my Master's thesis titled "Designing for Engagement: An Affordance-Based Model for Interactive Screens to trigger user driven actions in Self-Service Restaurants."
+
+![Experiment 3 Demo](https://github.com/user-attachments/assets/6a156720-940a-4832-ac75-1b4c35e69ea1)
 
 ## Features
 
@@ -10,7 +14,8 @@ An interactive web application designed to raise awareness about food waste and 
 - Food waste awareness facts
 - Pledge system for commitment
 - Responsive design for various devices
-- Device-specific layouts (MEDD, dining hall, tablet)
+- Responsive Layout
+- Device-level tracking via hashed URLs
 
 ## Tech Stack
 
@@ -42,19 +47,10 @@ An interactive web application designed to raise awareness about food waste and 
 - `/src/App.tsx` - Main application component
 - `/src/lib` - Utility functions
 
-## Deployment
+## Thesis Context
 
-The application is deployed on Netlify and can be accessed at:
-https://rainbow-sunshine-5ef59c.netlify.app
+This experiment is the first of the three experiments to form the empirical basis for validating the affordance-based design model proposed in the thesis. For a comprehensive understanding of the theoretical background, model development, experimental design, results, and discussion, please refer to the full thesis document available at University of Turku library.
 
-## Contributing
+## Acknowledgement
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## License
-
-MIT
+This research was supported by Business Finland, under the Veturi program with the Dining Flow project (6547/31/2022).
