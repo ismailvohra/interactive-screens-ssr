@@ -2,6 +2,8 @@
 
 A real-time lunch rush monitoring system for Flavoria restaurant at the University of Turku. This application helps diners plan their lunch breaks by providing current wait times and recommending optimal dining periods. For the purpose of the research, *real-time* updates here refers to wait time values defined in the code based on historical data.
 
+This repository contains the source code for the Experiment 1 conducted as part of my Master's thesis titled "Designing for Engagement: An Affordance-Based Model for Interactive Screens to trigger user driven actions in Self-Service Restaurants."
+
 ![Experiment 1 Demo](https://github.com/user-attachments/assets/fbb98e65-27c3-4202-abbe-4988236fa33f)
 
 *   **Objective**: To influence diner behavior (specifically, to encourage earlier arrival times) without requiring direct interaction, by displaying estimated wait times and suggesting less busy periods.
@@ -75,6 +77,10 @@ Preview the production build:
 ```bash
 npm run preview
 ```
+
+## Thesis Context
+
+This experiment is the first of the three experiments to form the empirical basis for validating the affordance-based design model proposed in the thesis. For a comprehensive understanding of the theoretical background, model development, experimental design, results, and discussion, please refer to the full thesis document available at University of Turku library.
 
 ## Acknowledgement
 
