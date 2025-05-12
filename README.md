@@ -1,8 +1,8 @@
-# Source Code for Experiments: Designing for Engagement Thesis
+# Interactive Screens to trigger user driven actions in Self-Service Restaurants
 
-This repository contains the source code for the three experiments conducted as part of the Master's thesis titled "Designing for Engagement: An Affordance-Based Model for Interactive Screens to trigger user driven actions in Self-Service Restaurants."
+This repository contains the source code for the three experiments conducted as part of my Master's thesis titled "Designing for Engagement: An Affordance-Based Model for Interactive Screens to trigger user driven actions in Self-Service Restaurants."
 
-The research explores how interactive screens can be designed to effectively engage users and influence behavior in public self-service restaurant (SSR) environments. The experiments were conducted at Flavoria, a university self-service restaurant in Turku, Finland, and progressively increased in interaction complexity.
+The research defines a mathematical Affordance-Based Design Model to design interactive screens in self-service restaurants and explores how interactive screens can be designed to effectively engage users to trigger actions in public self-service restaurant (SSR) environments. The experiments were conducted at Flavoria, a university self-service restaurant in Turku, Finland, and progressively increased in interaction complexity.
 
 ## Repository Structure
 
@@ -12,7 +12,7 @@ The repository is organized into three main folders, each corresponding to one o
 *   **/Experiment 2**: Contains the source code and assets for the Intentions Poll (Active Communication).
 *   **/Experiment 3**: Contains the source code and assets for the Food Waste Pledge (Two-Way Communication).
 
-Each experiment folder includes its own `Readme.md` file providing specific details about the setup, technologies used, and how to run or understand the code for that particular experiment.
+Each experiment folder includes its own `Readme.md` file providing specific details about the setup, technologies used, and how to run the code for that particular experiment.
 
 ## Experiment Overviews
 
@@ -23,7 +23,7 @@ Each experiment folder includes its own `Readme.md` file providing specific deta
 *   **Key Metric**: Shift in the proportion of diners arriving during the early lunch slot.
 *   **Details**: See the `Readme.md` file in the `/Experiment 1` folder.
 
-### Experiment 2: Intentions Poll (Active Communication)
+### Experiment 2: Active Poll (Active Communication)
 
 *   **Objective**: To gauge diner intentions for the day (e.g., "Are you eating at Flavoria today?") via a simple tappable interface, aiming to improve demand forecasting.
 *   **Communication Type**: Active (simple polling).
@@ -39,7 +39,12 @@ Each experiment folder includes its own `Readme.md` file providing specific deta
 
 ## Thesis Context
 
-These experiments form the empirical basis for validating the affordance-based design model proposed in the thesis. For a comprehensive understanding of the theoretical background, model development, experimental design, results, and discussion, please refer to the full thesis document.
+These experiments form the empirical basis for validating the affordance-based design model proposed in the thesis. For a comprehensive understanding of the theoretical background, model development, experimental design, results, and discussion, please refer to the full thesis document available at University of Turku library.
+
+## Acknowledgement
+
+This research was supported by Business Finland, under the Veturi program with the Dining Flow project (6547/31/2022).
+
 
 ---
 
