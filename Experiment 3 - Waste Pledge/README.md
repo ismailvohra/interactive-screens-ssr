@@ -47,6 +47,21 @@ This repository contains the source code for the Experiment 2 conducted as part 
 - `/src/App.tsx` - Main application component
 - `/src/lib` - Utility functions
 
+## Environment Setup
+
+The application uses environment variables for API configuration:
+- The two base API URLs are configured in `src/App.tsx`. For security reasons, the API endpoints are removed from this repository.
+
+## API Schema
+The two APIs used have the same schema (one for logging slicing with knife, and one for logging pledges). Following is a sample JSON schema of the API:
+```
+{
+created: "2025-03-10T10:03:06.270833+02:00",
+deviceid: 1,
+dish: "bread"
+},
+```
+
 ## Thesis Context
 
 This experiment is the first of the three experiments to form the empirical basis for validating the affordance-based design model proposed in the thesis. For a comprehensive understanding of the theoretical background, model development, experimental design, results, and discussion, please refer to the full thesis document available at University of Turku library.
