@@ -1,6 +1,12 @@
-# Flavoria Lunch Flow Monitor
+# Experiment 1: Rush Information Screen (Passive Communication)
 
-A real-time lunch rush monitoring system for Flavoria restaurant at the University of Turku. This application helps students and staff plan their lunch breaks by providing current wait times and recommending optimal dining periods.
+A real-time lunch rush monitoring system for Flavoria restaurant at the University of Turku. This application helps diners plan their lunch breaks by providing current wait times and recommending optimal dining periods. For the purpose of the research, *real-time* updates here refers to wait time values defined in the code based on historical data.
+
+![Experiment 1 Demo](https://github.com/user-attachments/assets/fbb98e65-27c3-4202-abbe-4988236fa33f)
+
+*   **Objective**: To influence diner behavior (specifically, to encourage earlier arrival times) without requiring direct interaction, by displaying estimated wait times and suggesting less busy periods.
+*   **Communication Type**: Passive.
+*   **Key Metric**: Shift in the proportion of diners arriving during the early or late lunch slot.
 
 ## Features
 
@@ -70,10 +76,6 @@ Preview the production build:
 npm run preview
 ```
 
-## Contributing
+## Acknowledgement
 
-This project is part of the DiningFlow initiative at the University of Turku, piloting various communication and feedback channels in Q1-Q2 of 2025.
-
-## License
-
-This project is proprietary and confidential. © 2025 University of Turku. All rights reserved.
+This research was supported by Business Finland, under the Veturi program with the Dining Flow project (6547/31/2022).
