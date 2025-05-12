@@ -42,7 +42,18 @@ This repository contains the source code for the Experiment 2 conducted as part 
 ## Environment Setup
 
 The application uses environment variables for API configuration:
-- Base API URL is configured in `src/api/flavoria.ts`
+- Base API URL is configured in `src/api/flavoria.ts`. For security reasons, the API endpoint is removed from this repository.
+
+## API Schema
+Following is a sample JSON schema of the API:
+```
+{
+created: "2025-03-25T09:20:32.027+02:00",
+answer: true,
+time_given: null,
+deviceid: 1
+}
+```
 
 ## Project Structure
 
@@ -54,10 +65,6 @@ src/
 ├── lib/          # Utility functions
 └── translations/ # Localization files
 ```
-
-## Deployment
-
-The application is configured for deployment on Netlify with automatic builds and deployments.
 
 ## Contributing
 
