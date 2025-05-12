@@ -15,6 +15,7 @@ This repository contains the source code for the Experiment 2 conducted as part 
 - 📱 Responsive design for all devices
 - ✨ Interactive UI with animations and visual feedback
 - ♻️ Helps reduce food waste through better planning
+- 🔗 Device-level tracking via hashed URLs
 
 ## Tech Stack
 
