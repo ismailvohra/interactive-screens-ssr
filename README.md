@@ -22,7 +22,7 @@ Each experiment folder includes its own `Readme.md` file providing specific deta
 
 *   **Objective**: To influence diner behavior (specifically, to encourage earlier arrival times) without requiring direct interaction, by displaying estimated wait times and suggesting less busy periods.
 *   **Communication Type**: Passive.
-*   **Key Metric**: Shift in the proportion of diners arriving during the early lunch slot.
+*   **Key Metric**: Shift in the proportion of diners arriving during the early or late lunch slot.
 *   **Details**: See the `Readme.md` file in the `/Experiment 1` folder.
 
 ### Experiment 2: Intentions Poll (Active Communication)
