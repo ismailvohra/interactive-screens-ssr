@@ -2,7 +2,7 @@
 
 This repository contains the source code for the three experiments conducted as part of my Master's thesis titled "Designing for Engagement: An Affordance-Based Model for Interactive Screens to trigger user driven actions in Self-Service Restaurants."
 
-The research defines a mathematical Affordance-Based Design Model to design interactive screens in self-service restaurants and explores how interactive screens can be designed to effectively engage users to trigger actions in public self-service restaurant (SSR) environments. The experiments rogressively increased in interaction complexity (from Experiment 1 to Experiment 3) and were conducted at Flavoria, a university self-service restaurant in Turku, Finland.
+The research defines a mathematical Affordance-Based Design Model to design interactive screens in self-service restaurants and explores how interactive screens can be designed to effectively engage users to trigger actions in public self-service restaurant (SSR) environments. The experiments progressively increased in interaction complexity (from Experiment 1 to Experiment 3) and were conducted at Flavoria, a university self-service restaurant in Turku, Finland.
 
 ## Repository Structure
 
