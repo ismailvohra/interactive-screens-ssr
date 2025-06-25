@@ -55,3 +55,5 @@ This research was supported by Business Finland, under the Veturi program with t
 ---
 
 This README provides a general overview. For detailed information on each experiment's source code, please navigate to the respective subfolders.
+
+The published version of the thesis is available at University of Turku's UTUPub repository [here](https://urn.fi/URN:NBN:fi-fe2025062473262).
