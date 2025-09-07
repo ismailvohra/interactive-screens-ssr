@@ -4,7 +4,7 @@ A real-time lunch voting application for Flavoria restaurant that helps optimize
 
 This repository contains the source code for the Experiment 2 conducted as part of my Master's thesis titled "Designing for Engagement: An Affordance-Based Model for Interactive Screens to trigger user driven actions in Self-Service Restaurants."
 
-![Experiment 2 Demo](https://github.com/user-attachments/assets/63b94883-20e4-44a3-aec5-3378c871f14f)
+![Experiment 2 Demo](https://github.com/user-attachments/assets/a410347e-c20c-49df-898e-392eb0009ec8)
 
 ## Features
 
